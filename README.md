@@ -34,4 +34,4 @@ Enterprise IT / Windows systems specialist — Active Directory, Citrix Virtual 
 ## 📫 Reach me
 
 - GitHub: [@marcelocfm](https://github.com/marcelocfm)
-- LinkedIn: <!-- add your LinkedIn URL here -->
+- LinkedIn: [in/marcelocfm](https://www.linkedin.com/in/marcelocfm/)
