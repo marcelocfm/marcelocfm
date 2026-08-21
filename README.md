@@ -21,10 +21,6 @@ Enterprise IT / Windows systems specialist — Active Directory, Citrix Virtual 
 - **Auditable by default** — anything that changes state logs what happened, who did it, and to what.
 - **CI on every push** — PowerShell tools here run through [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) on every commit, not just eyeballed before a demo.
 
-## 📊 GitHub stats
-
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocfm&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
 ## 📫 Reach me
 
 - GitHub: [@marcelocfm](https://github.com/marcelocfm)
