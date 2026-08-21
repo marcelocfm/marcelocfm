@@ -1,6 +1,6 @@
 ![banner](./banner.png)
 
-# Hi, I'm Marcelo 👋
+# Hi, I'm Marcelo
 
 Enterprise IT / Windows systems specialist — Active Directory, Citrix Virtual Apps and Desktops, SCCM, and infrastructure automation. I build tools that turn repetitive admin work (provisioning, decommissioning, health checks, ticket triage) into single-click, config-driven, auditable workflows.
 
