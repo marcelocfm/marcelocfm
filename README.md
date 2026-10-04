@@ -15,17 +15,6 @@ Enterprise IT and Windows systems specialist: Active Directory, Citrix Virtual A
 ![WPF/WinForms](https://img.shields.io/badge/WPF%2FWinForms-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## diagtool
-
-[diagtool](https://github.com/marcelocfm/diagtool) is a portable PowerShell GUI for Service Desk remote sessions. One run collects the evidence a ticket usually needs:
-
-- critical and error events from the System log, driver failures (Event ID 219) and unexpected reboots (Event ID 41)
-- SFC and CHKDSK results
-- `ipconfig /all` and a DNS reachability test
-- OS, hardware and disk inventory
-
-Everything is saved as CSV and text files in one folder, ready to attach to the ticket. It runs on Windows 10, 11 and Server 2016+ with PowerShell 5.1.
-
 ## How I build
 
 - **Config-driven.** Server names, OUs and mail settings live in a config file, so a tool written for one environment moves to the next without a rewrite.
